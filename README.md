@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam66-oss
 - 👀 I’m interested in solving intersting projects on github...
-- 🌱 I’m currently learning C++...
+- 🌱 I’m currently learning C++,Web Development and cloud
 
 <!---
 Sam66-oss/Sam66-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
