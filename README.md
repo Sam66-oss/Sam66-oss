@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Samriddh%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=I am Samriddh%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 - 👋 Hi, I’m @Sam66-oss
 - 👀 I’m interested in solving intersting projects on github...
 - 🌱 I’m currently learning C++,Web Development and cloud
