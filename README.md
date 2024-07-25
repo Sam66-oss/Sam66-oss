@@ -8,6 +8,6 @@ Sam66-oss/Sam66-oss is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
- [![Samriddh's github stats](https://github-readme-stats.vercel.app/api?username=Sam66-oss&show_icons=true&count_private=true&theme=blue-green)](https://github.com/Sam66-oss)<br>
+{/* [![Samriddh's github stats](https://github-readme-stats.vercel.app/api?username=Sam66-oss&show_icons=true&count_private=true&theme=blue-green)](https://github.com/Sam66-oss)<br> */}
  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam66-oss&theme=blue-green)](https://github.com/Sam66-oss)
 <a href="https://github.com/Sam66-oss"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam66-oss&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" width="270px"/></a>
